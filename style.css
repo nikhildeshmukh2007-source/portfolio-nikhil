@@ -6,8 +6,6 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
-
-/* Navbar */
 nav {
     background-color: #222;
     color: white;
@@ -31,7 +29,6 @@ nav {
     color: orange;
 }
 
-/* Home */
 .home {
     display: flex;
     align-items: center;
@@ -60,7 +57,6 @@ nav {
     border: 2px solid #222;
 }
 
-/* Button */
 .button {
     background-color: #222;
     color: white;
@@ -82,8 +78,6 @@ section h2 {
     text-align: center;
     margin-bottom: 25px;
 }
-
-/* About */
 #about {
     background-color: white;
 }
@@ -93,7 +87,6 @@ section h2 {
     margin: 15px auto;
 }
 
-/* Skills */
 #skills {
     background-color: #e5e5e5;
 }
@@ -115,8 +108,6 @@ section h2 {
     background-color: #222;
     color: white;
 }
-
-/* Projects */
 .projects {
     display: flex;
     justify-content: center;
@@ -135,8 +126,6 @@ section h2 {
 .project:hover {
     background-color: #e5e5e5;
 }
-
-/* Contact */
 #contact {
     background-color: #e5e5e5;
 }
@@ -168,7 +157,6 @@ button:hover {
     color: black;
 }
 
-/* Footer */
 footer {
     background-color: #222;
     color: white;
@@ -192,7 +180,6 @@ footer {
     color: orange;
 }
 
-/* Mobile */
 @media (max-width: 600px) {
 
     nav {
